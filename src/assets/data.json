@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "date": "07/2/2023",
+      "title": "TECHY STAR",
+      "description": "Tech Start is a Reactjs fronted web App. This Web App is a designing Practice using scss, React-Router-Dom & carousel. It is Simple Ui And Desiging Practice.",
+      "url": "https://tech-star-react-website-designing-routing.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "15/2/2023",
+      "title": "VIDEO HUB",
+      "description": "Video Hub is a Reactjs fronted web App. Tis Web App is designing Practice Using Chakra Ui, Carrousel & React-Router-Dom. It is Simple Ui Practice.",
+      "url": "https://video-hub-project-using-reactjs.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "25/2/2023",
+      "title": "XCrypto",
+      "description": "XCrypto is a Reactjs fronted web App. Tis Web App is designing Practice Axios, Api Fech, React-Router-Dom & Animation. It is Simple Ui Practice.",
+      "url": "https://crypto-app-using-reactjs.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "1/3/2023",
+      "title": "REACT CART",
+      "description": "React Cart is a Reactjs fronted web App. Tis Web App is Redux, Store State practice & React-Router-Dom. It is Redux Practice.",
+      "url": "https://add-to-cart-using-redux-in-reactjs.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    },
+
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://ecommerce-cloneusing-reactjs.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    },
+
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://chat-app-five-dusky.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://gauravkumarchhipa.github.io/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+
+  ]
+}
