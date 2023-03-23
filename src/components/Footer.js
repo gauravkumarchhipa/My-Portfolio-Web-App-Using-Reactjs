@@ -16,7 +16,7 @@ const Footer = () => {
           alt="Founder"
         />
 
-        <h2>Abhishek Singh</h2>
+        <h2>Gaurav Kumar</h2>
         <p>Motivation is temporary, but discipline last forever.</p>
       </div>
 

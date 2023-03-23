@@ -12,14 +12,14 @@ const Home = () => {
     
 
     const animationClientsCount = ()=>{
-        animate(0,100,{
+        animate(0,5,{
             duration:1,
             onUpdate: (v)=>(clientCount.current.textContent = v.toFixed()),
         })
     }
 
     const animationProjectCount = ()=>{
-        animate(0,500,{
+        animate(0,20,{
             duration:1,
             onUpdate: (v)=>(projectCount.current.textContent = v.toFixed()),
         })
