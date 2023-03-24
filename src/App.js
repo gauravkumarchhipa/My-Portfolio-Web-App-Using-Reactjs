@@ -1,3 +1,4 @@
+import { Toaster } from "react-hot-toast";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -17,6 +18,7 @@ function App() {
       <Services/>
       <Testimonial/>
       <Contact/>
+      <Toaster/>
       <Footer/>
     </>
   );
