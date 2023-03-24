@@ -9,8 +9,8 @@ const Work = () => {
         <section>
             <article>
                 <Carousel
-                    showArrows={false}
-                    // showIndicators={false}
+                    showArrows={true}
+                    showIndicators={false}
                     showStatus={false}
                     showThumbs={false}
                     interval={2000}
@@ -25,9 +25,14 @@ const Work = () => {
                                     <h3>{i.title}</h3>
                                     <p>{i.description}</p>
                                     <a target={"blank"} href={i.url}>
-                                        View Demo 
+                                        View Output 
                                     </a>
+                                    <a target={"blank"} href={i.code}>
+                                        Source Code 
+                                    </a>
+                                    
                                 </aside>
+                                
                             </div>
                         ))
                     }

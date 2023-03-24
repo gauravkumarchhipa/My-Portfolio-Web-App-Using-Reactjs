@@ -55,7 +55,9 @@
           > a {
             background-color: $color3;
             padding: 0.7rem 2rem;
-            margin: 2rem;
+            margin: 0.2rem;
+            // display: flex;
+            // flex-direction: column;
             color: $color4;
             transition: all 0.5s;
             &:hover {

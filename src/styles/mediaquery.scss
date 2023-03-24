@@ -264,26 +264,26 @@
           height: 30vmax;
         }
         .workItem {
-          height: 30vmax;
+          height: 35vmax;
           box-shadow: 0 0 5px $color1;
           > aside {
             padding: 1rem;
   
             > h3 {
-              margin: 1rem;
+              margin: 0.75rem;
             }
   
             > p {
               letter-spacing: 0;
               line-height: unset;
               margin: 0%;
-              font-size: 0.75rem;
+              font-size: 0.65rem;
             }
   
             > a {
               padding: 0.4rem 0.7rem;
               font-size: 0.7rem;
-              margin: 1rem;
+              margin: 0.2rem;
             }
           }
         }
