@@ -17,4 +17,4 @@ Open [http://localhost:3000]
 "sass": "^1.59.3",
 "typewriter-effect": "^2.19.0"
 # Description 
-This React App is Personal Portfolio web app. This Web app in annimation, firebase, desiging are using.
+ This React App is Personal Portfolio web app. This Web app in animation, firebase, designing are using.
